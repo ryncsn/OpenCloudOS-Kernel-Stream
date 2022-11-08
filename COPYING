@@ -1,3 +1,11 @@
+Tencent is pleased to support the open source community by making OpenCloudOS Kernel Stream available.
+
+Copyright (C) 2021 THL A29 Limited, a Tencent company.  All rights reserved.
+
+The below software in this distribution may have been modified by THL A29 Limited ("Tencent Modifications"). All Tencent Modifications are Copyright (C) THL A29 Limited.
+
+OpenCloudOS Kernel Stream is licensed under the GNU General Public License, version 2 except for the third-party components listed below.
+
 The Linux Kernel is provided under:
 
 	SPDX-License-Identifier: GPL-2.0 WITH Linux-syscall-note
